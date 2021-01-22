@@ -10,8 +10,6 @@
 
 - 🔭 Owner at <a target="_blank" href="https://www.facebook.com/ghhostingsolutions/" >GH Hosting Solutions</a>
 
-- 🔭 Owner at <a target="_blank" href="https://www.facebook.com/ghhostingsolutions/" >GH Hosting Solutions</a>
-
 - 🌱 I’m currently learning **PHP, HTML, CSS, JS, Word Press and Android Studio.**
 
 - 💬 Ask me about **Anything.**
