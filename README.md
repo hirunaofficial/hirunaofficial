@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KWPXg9k/light.jpg" width="300" height="600">
+<center><img src="https://i.ibb.co/KWPXg9k/light.jpg" width="300" height="600"></center>
 <h1 align="center">Hi 👋, I'm GD HIRUNA.</h1>
 <h3 align="center">A Web Designer, Android App Developer and Python Leaner from Sri Lanka.</h3>
 
