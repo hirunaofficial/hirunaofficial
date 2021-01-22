@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/jfg7Zwv/IMG-20210119-130007.png">
 <h1 align="center">Hi 👋, I'm GD HIRUNA.</h1>
 <h3 align="center">A Web Designer, Android App Developer and Python Leaner from Sri Lanka.</h3>
 
@@ -6,6 +7,8 @@
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdhiruna" alt="gdhiruna" /></a> </p>
 
 <p align="left"> <a target="_blank" href="https://twitter.com/hiruna_official" target="blank"><img src="https://img.shields.io/twitter/follow/hiruna_official?logo=twitter&style=for-the-badge" alt="hiruna_official" /></a> </p>
+
+- 🔭 Owner at <a target="_blank" href="https://www.facebook.com/ghhostingsolutions/" >GH Hosting Solutions</a>
 
 - 🔭 Owner at <a target="_blank" href="https://www.facebook.com/ghhostingsolutions/" >GH Hosting Solutions</a>
 
