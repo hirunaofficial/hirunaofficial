@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://i.ibb.co/KWPXg9k/light.jpg" width="300" height="600"></h1>
 <h1 align="center">Hi 👋, I'm GD HIRUNA.</h1>
-<h3 align="center">A Web Designer, Android App Developer and Python Leaner from Sri Lanka.</h3>
+<h3 align="center">I'm a Web Designer, Graphic Designer, Web Based Android App Developer and Python Leaner from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdhiruna&label=Profile%20views&color=0e75b6&style=flat" alt="gdhiruna" /> </p>
 
