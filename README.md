@@ -10,8 +10,6 @@
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdhiruna" alt="gdhiruna" /></a> </p>
 
-<p align="left"> <a target="_blank" href="https://twitter.com/hiruna_official" target="blank"><img src="https://img.shields.io/twitter/follow/hiruna_official?logo=twitter&style=for-the-badge" alt="hiruna_official" /></a> </p>
-
 - 👑 Owner at <a target="_blank" href="https://www.facebook.com/ghhostingsolutions/" >GH Hosting Solutions</a>
 
 - 💡 I’m currently learning **PHP, HTML, CSS, JS, Word Press and Android Studio.**
