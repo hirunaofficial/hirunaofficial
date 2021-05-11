@@ -6,7 +6,7 @@
 <h1>Hi 👋, I'm GD HIRUNA.</h1>
 <h3>I'm a Web Designer, Graphic Designer, Web Based Android App Developer and Python Leaner from Sri Lanka.</h3>
 
-<p align="left"> ![Profile views](https://gpvc.arturio.dev/hirunaofficial)  </p>
+![Profile views](https://gpvc.arturio.dev/hirunaofficial)
 
 <p align="left"> <a href="https://github.com/inukaasith"><img src="https://github-profile-trophy.vercel.app/?username=inukaasith&no-bg=true" alt="hirunaofficial" /></a> </p>
 
