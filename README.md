@@ -9,7 +9,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/hirunaofficial)
 
-<p align="left"> <a href="https://github.com/inukaasith"><img src="https://github-profile-trophy.vercel.app/?username=hirunaofficial&no-bg=true" alt="hirunaofficial" /></a> </p>
+<p align="left"> <a href="https://github.com/hirunaofficial"><img src="https://github-profile-trophy.vercel.app/?username=hirunaofficial&no-bg=true" alt="hirunaofficial" /></a> </p>
 
 - 👑 Owner at <a target="_blank" href="https://www.facebook.com/ghhostingsolutions/" >GH Hosting Solutions</a>
 
