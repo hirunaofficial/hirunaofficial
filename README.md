@@ -11,13 +11,11 @@
 
 <p align="left"> <a href="https://github.com/hirunaofficial"><img src="https://github-profile-trophy.vercel.app/?username=hirunaofficial&no-bg=true" alt="hirunaofficial" /></a> </p>
 
-- 👑 Owner at <a target="_blank" href="https://www.facebook.com/ghhostingsolutions/" >GH Hosting Solutions</a>
-
 - 💡 I’m currently learning **PHP, HTML, CSS, JS, Word Press and Android Studio.**
 
 - 💬 Ask me about **Anything.**
 
-- 📧 How to reach me **hello@hirunaofficial.me**
+- 📧 How to reach me **hirunaofficial@gmail.com**
 
 - ⚡ Fun fact **I’m not trying to be Different. To me, I’m just being myself.**
 
