@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm <a href="https://hiruna.g99solutions.com/">GD Hiruna</a></h1>
-<h3>An ambitious technophile who is willing to seek new aspects of modern-day technology and related skills.</h3>
+<h3>As an avid technophile, I am always on the lookout for new opportunities to explore the rapidly evolving technology landscape and refine my skills. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirunaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="hirunaofficial" /> </p>
 
