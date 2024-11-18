@@ -5,15 +5,11 @@
 
 # Hi 👋, I'm Hiruna Gallage
 
-I’m an enthusiastic undergraduate at Cardiff Metropolitan University, currently pursuing a BSc (Hons) in Software Engineering and Information Technology. My expertise is centered around full-stack development, with a particular passion for back-end technologies, especially Spring Boot.
-
-I thrive on solving complex problems and am constantly eager to learn and expand my skill set. Collaboration is at the heart of my approach, and I greatly value the opportunity to work with diverse, global teams.
+I’m an enthusiastic Software Engineering undergraduate at Cardiff Metropolitan University, currently pursuing a BSc (Hons) in Software Engineering and Information Technology. I specialize in full-stack development with a particular focus on building robust and scalable back-end systems.
 
 ## 💻 Experience and Expertise
 
-Throughout my studies, I’ve developed a solid foundation in web development, mastering front-end technologies like HTML, CSS, and JavaScript, and frameworks like React. However, my real interest lies in building robust, scalable back-end systems using Spring Boot. This framework has allowed me to design and implement complex APIs and microservices that power dynamic and efficient web applications.
-
-I’m also experienced in Linux server management, ensuring that the applications I develop are well-architected and efficiently deployed and maintained.
+I’m passionate about collaboration and love working with diverse teams to create innovative solutions. My goal is to continue learning and expanding my skills, while contributing to the tech community. Feel free to reach out to discuss potential collaborations or ideas!
 
 ## 🛠️ Languages and Tools
 
