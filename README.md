@@ -3,11 +3,9 @@
 </p>
 
 
-# Hi 👋, I'm Hiruna Gallage
+<h1>Hi 👋, I'm Hiruna Gallage</h1>
 
 I’m an enthusiastic Software Engineering undergraduate at Cardiff Metropolitan University, currently pursuing a BSc (Hons) in Software Engineering and Information Technology. I specialize in full-stack development with a particular focus on building robust and scalable back-end systems.
-
-## 💻 Experience and Expertise
 
 I’m passionate about collaboration and love working with diverse teams to create innovative solutions. My goal is to continue learning and expanding my skills, while contributing to the tech community. Feel free to reach out to discuss potential collaborations or ideas!
 
