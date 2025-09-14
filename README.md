@@ -1,22 +1,40 @@
 <h1 align="center">Hiruna Gallage</h1>
-<p align="center">Full-Stack Developer · Software Engineering Undergraduate · Building Scalable, Real-World Solutions</p>
+<p align="center">Full-Stack Developer · Software Engineer · Building Scalable, Real-World Solutions</p>
 
 ---
 
 ## About Me
 
-I’m a passionate Software Engineering undergraduate at Cardiff Metropolitan University, focused on building scalable, real-world solutions through full-stack development. With a strong foundation in both frontend and backend technologies, I specialize in API design, microservices, and robust backend systems. My experience extends to Linux server management, enabling effective deployment and maintenance of production-ready applications. I thrive in collaborative, cross-functional teams and enjoy solving complex problems that create tangible impact. As an AI enthusiast, I’m also exploring intelligent systems and GenAI integration. I'm always open to learning, growing, and collaborating on innovative projects feel free to connect or reach out at hello@hiruna.dev.
+I’m a passionate Full-Stack Developer and Software Engineer focused on building scalable, impactful solutions for real-world challenges.
+
+With hands-on experience in both frontend and backend development, I specialize in API design, microservices, and robust backend systems. I also have a strong background in Linux server management, enabling smooth deployment and maintenance of production-ready applications.
+
+I thrive in collaborative, cross-functional teams and love solving complex problems that deliver tangible results. As an AI enthusiast, I’m actively exploring intelligent systems and Generative AI integration.
+
+I’m always eager to learn, grow, and collaborate on innovative projects. **Feel free to connect or reach out:** hello@hiruna.dev
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,express,mongodb,postgresql,typescript,javascript,html,css,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=java,python,php,cpp,c,cs,bash" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,sqlite,aws,gcp,azure" /><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,express,typescript,javascript,html,css,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=java,python,php,cpp,c,cs,bash,go,rust,dart" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,sqlite,redis,aws,gcp,azure" /><br>
   <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,vscode,figma" /><br>
   <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,pytorch,opencv" />
+</p>
+
+---
+
+## GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hirunaofficial&theme=github-dark" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirunaofficial&theme=github-compact"/>
 </p>
 
 ---
@@ -27,7 +45,7 @@ I’m a passionate Software Engineering undergraduate at Cardiff Metropolitan Un
   <a href="https://hiruna.dev" target="_blank" title="Personal Website">
     <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-    <a href="https://linkedin.com/in/hirunaofficial" target="_blank" title="LinkedIn">
+  <a href="https://linkedin.com/in/hirunaofficial" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hello@hiruna.dev" target="_blank" title="Email">
