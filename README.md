@@ -30,11 +30,11 @@ I’m always eager to learn, grow, and collaborate on innovative projects. **Fee
 ## GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hirunaofficial&theme=github-dark" height="180"/>
+  <img src="https://www.hiruna.dev/api/github-contributions/card?theme=dark" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirunaofficial&theme=github-compact"/>
+  <img src="https://www.hiruna.dev/api/github-contributions/chart?theme=dark"/>
 </p>
 
 ---
