@@ -30,11 +30,11 @@ I’m always eager to learn, grow, and collaborate on innovative projects. **Fee
 ## GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://www.hiruna.dev/api/github-contributions/card?theme=dark" height="180"/>
+  <img src="https://www.hiruna.dev/api/github-contributions/card" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://www.hiruna.dev/api/github-contributions/chart?theme=dark"/>
+  <img src="https://www.hiruna.dev/api/github-contributions/chart"/>
 </p>
 
 ---
